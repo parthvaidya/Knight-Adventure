@@ -1,6 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1750490812
+::res://::1750498800
 default_bus_layout.tres::AudioBusLayout/AudioBusLayout::5853882233357444606::1749646570::0::1::::<><><>0<>0<><>::
+export_presets.cfg::TextFile::-1::1750491120::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D/CompressedTexture2D::2173281454835971738::1749561642::1749561651::1::::<><><>0<>0<>ae223fdb1f3cf5376cec142e0fa0bb33<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 ::res://Assets/::1749561835
 ::res://Assets/fonts/::1749561836
@@ -26,6 +27,7 @@ platforms.png::CompressedTexture2D/CompressedTexture2D::4378290813685618519::174
 slime_green.png::CompressedTexture2D/CompressedTexture2D::1247345422544504471::1749561835::1749561836::1::::<><><>0<>0<>945807192e15995c303ae0e575f9f174<>res://.godot/imported/slime_green.png-82ab2b7a3783e85117231b17359f2c2e.ctex::
 slime_purple.png::CompressedTexture2D/CompressedTexture2D::7763874134911111302::1749561835::1749561836::1::::<><><>0<>0<>2edf4f88563d7454b6e0f68a79b434e3<>res://.godot/imported/slime_purple.png-43dfa43f13125aefcc7affc07742c2cf.ctex::
 world_tileset.png::CompressedTexture2D/CompressedTexture2D::5556530947619426880::1749561835::1749561836::1::::<><><>0<>0<>d2f79cc28d4e0d85434f719d4c17376e<>res://.godot/imported/world_tileset.png-7d0351459d02dec97d7c98fe9a06c85b.ctex::
+::res://Game/::1750491211
 ::res://KnighAdventure2D/::1749651197
 ::res://Scenes/::1750149696
 coin.tscn::PackedScene/PackedScene::751980861478296346::1749723050::0::1::::<><><>0<>0<><>::uid://bjnqy8dl31y6l::::res://Assets/sprites/coin.png<>uid://d3hpar8dbntjp::::res://Scripts/coin.gd<>uid://feidf40vmp5n::::res://Assets/sounds/coin.wav
