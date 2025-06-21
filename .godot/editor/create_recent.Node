@@ -1,0 +1,14 @@
+AnimationPlayer
+Panel
+HBoxContainer
+Button
+CollisionShape2D
+Sprite2D
+AnimatedSprite2D
+Area2D
+Label
+VBoxContainer
+AudioStreamPlayer2D
+Node
+RayCast2D
+Timer

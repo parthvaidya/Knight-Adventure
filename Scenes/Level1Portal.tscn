@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://cdady3evrj876"]
+
+[ext_resource type="Texture2D" uid="uid://clfviulrjyjky" path="res://Assets/sprites/world_tileset.png" id="1_ycv7e"]
+[ext_resource type="PackedScene" uid="uid://c23crpmpon7qv" path="res://Scenes/portkey.tscn" id="2_7nenk"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_gr0mm"]
+
+[node name="Next Level" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_ycv7e")
+region_enabled = true
+region_rect = Rect2(49, 32, 14, 16)
+
+[node name="Portkey" parent="." instance=ExtResource("2_7nenk")]
+visibility_layer = 1
+collision_mask = 2
+target_scene_path = "res://Scenes/Level2.tscn"
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Portkey"]
+shape = SubResource("RectangleShape2D_gr0mm")
