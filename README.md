@@ -14,6 +14,11 @@ Developed using GDScript, the project showcases core gameplay mechanics, smooth 
 Video Gameplay : https://drive.google.com/file/d/1sdBOIGu5mbvDrstoMfhkK1JQvMBnMGQ_/view?usp=sharing
 
 # Features
+1. Built a 2D action platformer in Godot with a player-controlled knight and melee combat.
+
+2. Implemented enemy with kill-on-hit logic for engaging encounters.
+
+3. Included 3 levels, multiple enemies, and a coin-based scoring system that tracks total collectibles across all stages.
 
 # Installation
 1. Clone the Repository
